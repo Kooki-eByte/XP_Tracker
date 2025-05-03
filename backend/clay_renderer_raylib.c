@@ -1,3 +1,4 @@
+#pragma once
 #include "../include/raylib/raylib.h"
 #include "../include/raylib/raymath.h"
 #include "../include/clay/clay.h"
